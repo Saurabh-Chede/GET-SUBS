@@ -16,8 +16,13 @@ The API has several endpoints that let users get data in JSON format, such as a
 
 
 5. **"/subscribers/names "** -> This endpoint returns an array of subscribers with only two fields, their name and subscribed channel. http://localhost:3000/subscribers/names
+   ![Screenshot 2024-02-17 150355](https://github.com/Saurabh-Chede/GET-SUBS/assets/82999803/16407a28-b485-44f1-8dc0-d5c1a663880b)
 
-6. **"/subscribers/:id "** -> This returns the details of subscriber whose Id is provided in endpoint. http://localhost:3000/subscribers/:id
+   
+
+7. **"/subscribers/:id "** -> This returns the details of subscriber whose Id is provided in endpoint. http://localhost:3000/subscribers/:id
+   
+![Screenshot 2024-02-17 150546](https://github.com/Saurabh-Chede/GET-SUBS/assets/82999803/cf4d12ac-e25b-4ae6-ae03-5f616a620fcf)
 
 
 
