@@ -13,7 +13,7 @@ The API has several endpoints that let users get data in JSON format, such as a
 ## Application Folder Structure
 1. [src/app.js] -> For handling requests and responses.
 
-2. [/index.js] -> To connect and start the server.
+2. [src/index.js] -> To connect and start the server.
 
 3. [src/createDatabase.js] -> To create database on MongoDB.
 
