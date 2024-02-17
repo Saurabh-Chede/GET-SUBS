@@ -8,12 +8,16 @@ The API has several endpoints that let users get data in JSON format, such as a
 
 ## API Endpoints 
 1. **"/ "** -> This default route will render the "index.html file" when the app launches. http://localhost:3000/
+   ![Screenshot 2024-02-17 141717](https://github.com/Saurabh-Chede/GET-SUBS/assets/82999803/7feceb92-53f1-464e-8ed3-10510b950259)
 
-2. **"/subscribers "** -> This endpoint returns an array of all subscribers in the database. http://localhost:3000/subscribers
 
-3. **"/subscribers/names "** -> This endpoint returns an array of subscribers with only two fields, their name and subscribed channel. http://localhost:3000/subscribers/names
+3. **"/subscribers "** -> This endpoint returns an array of all subscribers in the database. http://localhost:3000/subscribers
+   ![Screenshot 2024-02-17 150313](https://github.com/Saurabh-Chede/GET-SUBS/assets/82999803/a9a8245e-95e2-410f-916f-3cb69d488086)
 
-4. **"/subscribers/:id "** -> This returns the details of subscriber whose Id is provided in endpoint. http://localhost:3000/subscribers/:id
+
+5. **"/subscribers/names "** -> This endpoint returns an array of subscribers with only two fields, their name and subscribed channel. http://localhost:3000/subscribers/names
+
+6. **"/subscribers/:id "** -> This returns the details of subscriber whose Id is provided in endpoint. http://localhost:3000/subscribers/:id
 
 
 
