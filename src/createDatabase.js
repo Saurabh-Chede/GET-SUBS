@@ -4,8 +4,6 @@ const data = require("./data");
 
 // Connect to DATABASE
 
-// const DATABASE_URL = "mongodb://127.0.0.1:27017/subscribers";
-
 const DATABASE_URL = "mongodb+srv://saurabhchede21:zjz1wDbf29iYqX3n@cluster0.cecuypn.mongodb.net/";
 
 mongoose.connect(DATABASE_URL, {
