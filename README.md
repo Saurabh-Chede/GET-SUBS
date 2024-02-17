@@ -30,6 +30,7 @@ The API has several endpoints that let users get data in JSON format, such as a
 5. [src/models/subscribers.js] -> For the schema.
    
 6. [src/index.html] -> The home page for the application.
+<<<<<<< HEAD
 
 
 ## Installation Guide
@@ -58,3 +59,5 @@ Web Deployment :
 ## Created By
 
 - Saurabh Chede
+=======
+>>>>>>> 19017f675babfb23eab9876b1d34f81e7050b8f9
