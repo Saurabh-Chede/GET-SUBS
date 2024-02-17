@@ -10,6 +10,8 @@ The API has several endpoints that let users get data in JSON format, such as a
 1. **"/ "** -> This default route will render the "index.html file" when the app launches. http://localhost:3000/
 
 
+
+
 ## Application Folder Structure
 1. [src/app.js] -> For handling requests and responses.
 
@@ -22,3 +24,31 @@ The API has several endpoints that let users get data in JSON format, such as a
 5. [src/models/subscribers.js] -> For the schema.
    
 6. [src/index.html] -> The home page for the application.
+
+
+## Installation Guide
+
+You'll need to have **Node.js** and **MongoDB** installed on your computer in order to begin working on the project. 
+
+Once installed, Clone this repository to your **local** machine.
+
+Install the required dependencies as mentioned below by using **npm install <packageName>**.
+
+Start the server by **node src/index.js**
+
+## Dependencies
+Following dependencie are needed to run this application: 
+
+1. express
+
+2. mongoose
+
+## Deployment
+
+Visit to see the working on Youtube : 
+
+Web Deployment : 
+
+## Created By
+
+Saurabh Chede
