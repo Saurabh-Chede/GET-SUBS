@@ -9,6 +9,7 @@ The API has several endpoints that let users get data in JSON format, such as a
 ## API Endpoints 
 1. **"/ "** -> This default route will render the "index.html file" when the app launches. http://localhost:3000/
 
+2.[Screenshot 2024-02-17 141717](https://github.com/Saurabh-Chede/GET-SUBS/assets/82999803/1c604ab5-4987-4899-b9fa-649bd0d6049f)
 
 ## Application Folder Structure
 1. [src/app.js] -> For handling requests and responses.
