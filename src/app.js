@@ -1,15 +1,17 @@
-
+// Import required modules
 const express = require('express');
 const path = require("path");
 const Subscriber = require("./models/subscribers");
 
-
+// Create an instance of the Express application
 const app = express();
 
+// To use static files we need to give permission of the public folder
 app.use(express.static('public'));
 
 
-  
+// Routes
+// API to render html file
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "/index.html"));
   });
